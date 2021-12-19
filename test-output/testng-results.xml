@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-19T13:17:39Z" name="Default suite" finished-at="2021-12-19T13:18:22Z" duration-ms="43475">
+    <groups>
+    </groups>
+    <test started-at="2021-12-19T13:17:39Z" name="Default test" finished-at="2021-12-19T13:18:22Z" duration-ms="43475">
+      <class name="Tests.T1_CheckCartItems">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Tests.T1_CheckCartItems@7c214cc0]" started-at="2021-12-19T16:17:34Z" name="openBrowser" finished-at="2021-12-19T16:17:39Z" duration-ms="4369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="SelectStore()[pri:0, instance:Tests.T1_CheckCartItems@7c214cc0]" started-at="2021-12-19T16:17:39Z" name="SelectStore" finished-at="2021-12-19T16:18:10Z" duration-ms="30979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectStore -->
+        <test-method signature="searchPeach()[pri:0, instance:Tests.T1_CheckCartItems@7c214cc0]" started-at="2021-12-19T16:18:10Z" name="searchPeach" finished-at="2021-12-19T16:18:16Z" duration-ms="6205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPeach -->
+        <test-method signature="AddFirstItemToCart()[pri:0, instance:Tests.T1_CheckCartItems@7c214cc0]" started-at="2021-12-19T16:18:16Z" name="AddFirstItemToCart" finished-at="2021-12-19T16:18:18Z" duration-ms="2051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddFirstItemToCart -->
+        <test-method signature="CheckCartPage()[pri:0, instance:Tests.T1_CheckCartItems@7c214cc0]" started-at="2021-12-19T16:18:18Z" name="CheckCartPage" finished-at="2021-12-19T16:18:22Z" duration-ms="4231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckCartPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.T1_CheckCartItems@7c214cc0]" started-at="2021-12-19T16:18:22Z" name="closeBrowser" finished-at="2021-12-19T16:18:26Z" duration-ms="4129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Tests.T1_CheckCartItems -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

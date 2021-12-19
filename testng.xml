@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Migros.com" > 
+<test name="Check Cart Items" >
+<classes>
+<class name="Tests.T1_CheckCartItems"/>
+</classes>
+</test>
+</suite>
